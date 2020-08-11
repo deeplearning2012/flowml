@@ -103,7 +103,7 @@
         </repository>
         <repository>
             <id>nexus-hortonworks</id>
-            <url>http://repo.hortonworks.com/content/repositories/releases/</url>
+            <url>https://repo.hortonworks.com/content/repositories/releases/</url>
         </repository>
         <repository>
             <id>nexus-bintray</id>
@@ -133,7 +133,6 @@
             <id>nexus-opennms</id>
             <url>http://repo.opennms.org/maven2/</url>
         </repository>
-
     </repositories>
 
     <dependencies>
